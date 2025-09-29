@@ -13,6 +13,9 @@ export const minikitConfig = {
     payload: "",
     signature: ""
   },
+  baseBuilder: {
+    allowedAddresses: ["0x1C70372597aEA8dc457345ace0473a32D3FC3323"]
+  },
   miniapp: {
     version: "1",
     name: "Cubey",
